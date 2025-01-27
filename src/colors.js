@@ -1,0 +1,19 @@
+export const COLORS = [
+  "DodgerBlue",
+  "DarkSlateBlue",
+  "Sienna",
+  "DarkGoldenRod",
+  "MediumVioletRed",
+  "PaleVioletRed",
+  "Tomato",
+  "BlueViolet",
+  "MediumAquaMarine",
+  "Magenta",
+  "HotPink",
+  "DarkOrange",
+  "Gold",
+  "DarkCyan",
+  "LimeGreen",
+  "DarkRed",
+  "FireBrick"
+];
